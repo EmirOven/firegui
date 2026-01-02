@@ -41,6 +41,6 @@ This is a list of the tasks I have planned with FireGUI. This will change consta
 
 ## Credits
 
-All the credits go to Postbeta Software (Emir Oven), all the contributors, and the awesome people that use this project :<3:.
+All the credits go to Postbeta Software (Emir Oven), all the contributors, and the awesome people that use this project :heart:.
 
 Postbeta Software is an eenmanszaak registered in the Netherlands, KVK number 97173355.

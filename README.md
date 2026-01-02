@@ -38,3 +38,9 @@ This is a list of the tasks I have planned with FireGUI. This will change consta
 - [ ] Possibly bindings for other languages
 - [ ] Multiple windows
 - [ ] Windows (and possibly macOS) support
+
+## Credits
+
+All the credits go to Postbeta Software (Emir Oven), all the contributors, and the awesome people that use this project :<3:.
+
+Postbeta Software is an eenmanszaak registered in the Netherlands, KVK number 97173355.

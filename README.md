@@ -3,7 +3,7 @@
 FireGUI is an opinionated GUI library that is meant to be simple in a world of complex libraries like Qt or GTK. It is meant to provide a simple and intuitive way to create GUIs in pure C++ and keeping most stuff out of your way.
 
 > [!CAUTION]
-> FireGUI is WIP. There isn't enough words in the English dictionary to explain how WIP it is. It currently consists only of a few core features, does not have any more usability than a normal TXT file, and the code will constantly change. Please do not use for production, any issues that happen while using FireGUI in such a context will not recieve any support. You have been forewarned.
+> FireGUI is WIP. There isn't enough words in the English dictionary to explain how WIP it is. It currently consists only of a few core features, does not have any more usability than a normal TXT file, and the code will constantly change. Please do not use for production, any issues that happen while using FireGUI in such a context will not recieve any support. You have been warned.
 
 ## Roadmap
 
